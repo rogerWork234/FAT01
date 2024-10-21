@@ -1,0 +1,13 @@
+/* selector {
+	property: value;
+	property: value;
+} */
+
+/* #external-styling {
+    color: green;
+  } */
+  #external-styling {
+    color: green;
+    font-size: 20px;
+    background-color: yellow;
+  }
